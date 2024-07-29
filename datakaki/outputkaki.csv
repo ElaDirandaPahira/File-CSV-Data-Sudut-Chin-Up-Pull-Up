@@ -1,0 +1,1468 @@
+Timestamp,Data
+57:53.4,"ets Jul 29 2019 12:21:46"
+57:53.4,""
+57:53.4,"rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)"
+57:53.4,"configsip: 0, SPIWP:0xee"
+57:53.4,"clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00"
+57:53.4,"mode:DIO, clock div:1"
+57:53.4,"load:0x3fff0030,len:1448"
+57:53.4,"load:0x40078000,len:14844"
+57:53.4,"ho 0 tail 12 room 4"
+57:53.4,"load:0x40080400,len:4"
+57:53.4,"load:0x40080404,len:3356"
+57:53.4,"entry 0x4008059c"
+57:54.4,"Starting BLE server"
+57:54.4,"Select Mode: 1 / 2"
+57:54.4,"1. Pull-Up"
+57:54.4,"2. Chin-Up"
+58:03.1,"Client connected"
+59:17.7,"Client disconnected"
+59:24.7,"ets Jul 29 2019 12:21:46"
+59:24.7,""
+59:24.7,"rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)"
+59:24.7,"configsip: 0, SPIWP:0xee"
+59:24.7,"clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00"
+59:24.7,"mode:DIO, clock div:1"
+59:24.7,"load:0x3fff0030,len:1448"
+59:24.7,"load:0x40078000,len:14844"
+59:24.7,"ho 0 tail 12 room 4"
+59:24.7,"load:0x40080400,len:4"
+59:24.7,"load:0x40080404,len:3356"
+59:24.7,"entry 0x4008059c"
+59:25.8,"Starting BLE server"
+59:25.8,"Select Mode: 1 / 2"
+59:25.8,"1. Pull-Up"
+59:25.8,"2. Chin-Up"
+59:43.5,"Client connected"
+59:53.5,"Client connected"
+00:19.1,"Client connected"
+00:25.7,"Mode selected: Chin-Up"
+00:33.3,"Menerima data dari BLE clients..."
+00:33.3,"Client 2 data received: roll = 74.24, pitch = -3.63"
+00:33.3,"Client 2: condition met"
+00:34.3,"Client 2 data received: roll = 74.56, pitch = -3.79"
+00:34.3,"Client 2: condition met"
+00:35.3,"Client 2 data received: roll = 74.34, pitch = -3.59"
+00:35.3,"Client 2: condition met"
+00:36.3,"Client 2 data received: roll = 74.17, pitch = -4.47"
+00:36.3,"Client 2: condition met"
+00:37.3,"Client 2 data received: roll = 75.60, pitch = -5.61"
+00:37.3,"Client 2: condition met"
+00:38.3,"Client 2 data received: roll = 75.76, pitch = -5.05"
+00:38.3,"Client 2: condition met"
+00:38.5,"Client 1: angle 40 detected"
+00:39.3,"Client 2 data received: roll = 76.37, pitch = -5.61"
+00:39.3,"Client 2: condition met"
+00:39.3,Chin Up COUNTED
+00:39.3,Chin Up Count: 1
+00:40.3,"Client 2 data received: roll = 75.34, pitch = -4.99"
+00:40.3,"Client 2: condition met"
+00:41.3,"Client 2 data received: roll = 75.69, pitch = -5.30"
+00:41.3,"Client 2: condition met"
+00:42.3,"Client 2 data received: roll = 75.60, pitch = -5.45"
+00:42.3,"Client 2: condition met"
+00:43.3,"Client 2 data received: roll = 75.43, pitch = -5.32"
+00:43.3,"Client 2: condition met"
+00:44.2,"Client 1: angle 40 detected"
+00:44.4,"Client 2 data received: roll = 74.12, pitch = -4.85"
+00:44.4,"Client 2: condition met"
+00:44.4,Chin Up COUNTED
+00:44.4,Chin Up Count: 2
+00:45.3,"Client 2 data received: roll = 75.40, pitch = -5.08"
+00:45.3,"Client 2: condition met"
+00:46.3,"Client 2 data received: roll = 75.10, pitch = -5.31"
+00:46.3,"Client 2: condition met"
+00:47.3,"Client 2 data received: roll = 75.84, pitch = -5.45"
+00:47.3,"Client 2: condition met"
+00:48.3,"Client 2 data received: roll = 75.25, pitch = -5.11"
+00:48.3,"Client 2: condition met"
+00:49.3,"Client 2 data received: roll = 75.74, pitch = -5.44"
+00:49.3,"Client 2: condition met"
+00:49.5,"Client 1: angle 40 detected"
+00:50.3,"Client 2 data received: roll = 74.65, pitch = -4.97"
+00:50.3,"Client 2: condition met"
+00:50.3,Chin Up COUNTED
+00:50.3,Chin Up Count: 3
+00:51.3,"Client 2 data received: roll = 74.75, pitch = -5.28"
+00:51.4,"Client 2: condition met"
+00:52.4,"Client 2 data received: roll = 74.92, pitch = -5.56"
+00:52.4,"Client 2: condition met"
+00:53.3,"Client 2 data received: roll = 74.48, pitch = -5.37"
+00:53.3,"Client 2: condition met"
+00:54.3,"Client 2 data received: roll = 75.56, pitch = -5.16"
+00:54.4,"Client 2: condition met"
+00:54.5,"Client 1: angle 40 detected"
+00:55.4,"Client 2 data received: roll = 73.28, pitch = -5.52"
+00:55.4,"Client 2: condition met"
+00:55.4,Chin Up COUNTED
+00:55.4,Chin Up Count: 4
+00:56.4,"Client 2 data received: roll = 74.90, pitch = -5.91"
+00:56.4,"Client 2: condition met"
+00:57.4,"Client 2 data received: roll = 74.64, pitch = -5.65"
+00:57.4,"Client 2: condition met"
+00:58.4,"Client 2 data received: roll = 74.21, pitch = -5.20"
+00:58.4,"Client 2: condition met"
+00:59.4,"Client 2 data received: roll = 75.19, pitch = -5.12"
+00:59.4,"Client 2: condition met"
+01:00.3,"Client 1: angle 40 detected"
+01:00.4,"Client 2 data received: roll = 73.52, pitch = -5.14"
+01:00.4,"Client 2: condition met"
+01:00.4,Chin Up COUNTED
+01:00.4,Chin Up Count: 5
+01:01.4,"Client 2 data received: roll = 75.22, pitch = -6.57"
+01:01.4,"Client 2: condition met"
+01:02.4,"Client 2 data received: roll = 74.63, pitch = -5.39"
+01:02.4,"Client 2: condition met"
+01:03.4,"Client 2 data received: roll = 74.43, pitch = -4.94"
+01:03.4,"Client 2: condition met"
+01:04.4,"Client 2 data received: roll = 75.24, pitch = -4.79"
+01:04.4,"Client 2: condition met"
+01:05.4,"Client 2 data received: roll = 74.94, pitch = -5.61"
+01:05.4,"Client 2: condition met"
+01:05.9,"Client 1: angle 40 detected"
+01:06.4,"Client 2 data received: roll = 72.84, pitch = -5.00"
+01:06.4,"Client 2: condition met"
+01:06.4,Chin Up COUNTED
+01:06.4,Chin Up Count: 6
+01:07.4,"Client 2 data received: roll = 74.52, pitch = -5.65"
+01:07.4,"Client 2: condition met"
+01:08.4,"Client 2 data received: roll = 74.67, pitch = -5.46"
+01:08.4,"Client 2: condition met"
+01:09.4,"Client 2 data received: roll = 74.55, pitch = -5.17"
+01:09.4,"Client 2: condition met"
+01:10.4,"Client 2 data received: roll = 74.67, pitch = -5.74"
+01:10.4,"Client 2: condition met"
+01:11.4,"Client 2 data received: roll = 74.44, pitch = -5.40"
+01:11.4,"Client 2: condition met"
+01:11.8,"Client 1: angle 40 detected"
+01:12.4,"Client 2 data received: roll = 76.74, pitch = -6.40"
+01:12.4,"Client 2: condition met"
+01:12.4,Chin Up COUNTED
+01:12.4,Chin Up Count: 7
+01:13.4,"Client 2 data received: roll = 74.41, pitch = -5.71"
+01:13.4,"Client 2: condition met"
+01:14.4,"Client 2 data received: roll = 74.35, pitch = -5.37"
+01:14.4,"Client 2: condition met"
+01:16.4,"Client 2 data received: roll = 74.16, pitch = -5.41"
+01:16.4,"Client 2: condition met"
+01:17.4,"Client 2 data received: roll = 74.27, pitch = -5.54"
+01:17.4,"Client 2: condition met"
+01:17.9,"Client 1: angle 40 detected"
+01:18.4,"Client 2 data received: roll = 74.70, pitch = -5.92"
+01:18.4,"Client 2: condition met"
+01:18.4,Chin Up COUNTED
+01:18.4,Chin Up Count: 8
+01:19.4,"Client 2 data received: roll = 74.37, pitch = -5.26"
+01:19.4,"Client 2: condition met"
+01:20.4,"Client 2 data received: roll = 75.30, pitch = -5.52"
+01:20.4,"Client 2: condition met"
+01:21.4,"Client 2 data received: roll = 74.89, pitch = -5.70"
+01:21.4,"Client 2: condition met"
+01:22.4,"Client 2 data received: roll = 74.60, pitch = -5.07"
+01:22.4,"Client 2: condition met"
+01:23.5,"Client 2 data received: roll = 73.51, pitch = -5.78"
+01:23.5,"Client 2: condition met"
+01:23.8,"Client 1: angle 40 detected"
+01:24.4,"Client 2 data received: roll = 75.57, pitch = -5.48"
+01:24.4,"Client 2: condition met"
+01:24.4,Chin Up COUNTED
+01:24.4,Chin Up Count: 9
+01:25.5,"Client 2 data received: roll = 73.89, pitch = -5.52"
+01:25.5,"Client 2: condition met"
+01:26.5,"Client 2 data received: roll = 74.34, pitch = -4.97"
+01:26.5,"Client 2: condition met"
+01:27.5,"Client 2 data received: roll = 74.10, pitch = -5.33"
+01:27.5,"Client 2: condition met"
+01:28.4,"Client 2 data received: roll = 74.22, pitch = -5.61"
+01:28.4,"Client 2: condition met"
+01:29.3,"Client 1: angle 40 detected"
+01:29.5,"Client 2 data received: roll = 74.02, pitch = -4.04"
+01:29.5,"Client 2: condition met"
+01:29.5,Chin Up COUNTED
+01:29.5,Chin Up Count: 10
+01:30.5,"Client 2 data received: roll = 74.12, pitch = -5.14"
+01:30.5,"Client 2: condition met"
+01:31.5,"Client 2 data received: roll = 74.30, pitch = -5.39"
+01:31.5,"Client 2: condition met"
+01:32.5,"Client 2 data received: roll = 73.93, pitch = -5.73"
+01:32.5,"Client 2: condition met"
+01:33.5,"Client 2 data received: roll = 74.48, pitch = -5.07"
+01:33.5,"Client 2: condition met"
+01:33.7,"Client 1: angle 40 detected"
+01:33.8,"Waktu 1 menit telah berlalu"
+01:33.8,TOTAL Chin-Up COUNTED: 10
+01:33.8,TOTAL NOT COUNTED: 0
+01:33.8,"Select Mode: 1 / 2"
+01:33.8,"1. Pull-Up"
+01:33.8,"2. Chin-Up"
+03:59.1,"Mode selected: Chin-Up"
+04:08.1,"Menerima data dari BLE clients..."
+04:08.9,"Client 2 data received: roll = 66.78, pitch = -7.81"
+04:08.9,"Client 2: condition met"
+04:08.9,Chin Up COUNTED
+04:08.9,Chin Up Count: 1
+04:09.9,"Client 2 data received: roll = 69.47, pitch = -6.56"
+04:09.9,"Client 2: condition met"
+04:11.0,"Client 2 data received: roll = 69.98, pitch = -8.18"
+04:11.0,"Client 2: condition met"
+04:11.9,"Client 2 data received: roll = 68.48, pitch = -9.20"
+04:11.9,"Client 2: condition met"
+04:12.9,"Client 2 data received: roll = 67.29, pitch = -8.43"
+04:13.0,"Client 2: condition met"
+04:13.5,"Client 1: angle 40 detected"
+04:14.0,"Client 2 data received: roll = 68.60, pitch = -8.47"
+04:14.0,"Client 2: condition met"
+04:14.0,Chin Up COUNTED
+04:14.0,Chin Up Count: 2
+04:15.0,"Client 2 data received: roll = 67.88, pitch = -7.27"
+04:15.0,"Client 2: condition met"
+04:16.0,"Client 2 data received: roll = 67.30, pitch = -7.48"
+04:16.0,"Client 2: condition met"
+04:16.9,"Client 1: angle 40 detected"
+04:17.0,"Client 2 data received: roll = 68.17, pitch = -5.76"
+04:17.0,"Client 2: condition met"
+04:17.0,Chin Up COUNTED
+04:17.0,Chin Up Count: 3
+04:18.0,"Client 2 data received: roll = 69.22, pitch = -7.72"
+04:18.0,"Client 2: condition met"
+04:19.0,"Client 2 data received: roll = 67.64, pitch = -7.26"
+04:19.0,"Client 2: condition met"
+04:19.6,"Client 1: angle 40 detected"
+04:20.0,"Client 2 data received: roll = 69.17, pitch = -6.05"
+04:20.0,"Client 2: condition met"
+04:20.0,Chin Up COUNTED
+04:20.0,Chin Up Count: 4
+04:21.0,"Client 2 data received: roll = 67.36, pitch = -6.66"
+04:21.0,"Client 2: condition met"
+04:22.0,"Client 2 data received: roll = 66.86, pitch = -6.47"
+04:22.0,"Client 2: condition met"
+04:22.6,"Client 1: angle 40 detected"
+04:23.0,"Client 2 data received: roll = 65.52, pitch = -5.68"
+04:23.0,"Client 2: condition met"
+04:23.0,Chin Up COUNTED
+04:23.0,Chin Up Count: 5
+04:24.0,"Client 2 data received: roll = 67.05, pitch = -6.21"
+04:24.0,"Client 2: condition met"
+04:25.0,"Client 2 data received: roll = 67.16, pitch = -5.79"
+04:25.0,"Client 2: condition met"
+04:26.0,"Client 2 data received: roll = 66.43, pitch = -5.51"
+04:26.0,"Client 2: condition met"
+04:26.0,"Client 1: angle 40 detected"
+04:27.0,"Client 2 data received: roll = 64.89, pitch = -6.18"
+04:27.0,"Client 2: condition met"
+04:27.0,Chin Up COUNTED
+04:27.0,Chin Up Count: 6
+04:28.0,"Client 2 data received: roll = 66.48, pitch = -6.36"
+04:28.0,"Client 2: condition met"
+04:29.1,"Client 1: angle 40 detected"
+04:30.0,"Client 2 data received: roll = 66.58, pitch = -6.00"
+04:30.0,"Client 2: condition met"
+04:30.0,Chin Up COUNTED
+04:30.0,Chin Up Count: 7
+04:31.0,"Client 2 data received: roll = 66.49, pitch = -5.79"
+04:31.0,"Client 2: condition met"
+04:32.0,"Client 2 data received: roll = 65.42, pitch = -6.02"
+04:32.0,"Client 2: condition met"
+04:32.4,"Client 1: angle 40 detected"
+04:33.0,"Client 2 data received: roll = 65.66, pitch = -6.48"
+04:33.0,"Client 2: condition met"
+04:33.0,Chin Up COUNTED
+04:33.0,Chin Up Count: 8
+04:34.0,"Client 2 data received: roll = 65.78, pitch = -5.87"
+04:34.0,"Client 2: condition met"
+04:35.0,"Client 2 data received: roll = 66.77, pitch = -6.00"
+04:35.0,"Client 2: condition met"
+04:36.0,"Client 2 data received: roll = 65.73, pitch = -5.71"
+04:36.0,"Client 2: condition met"
+04:36.3,"Client 1: angle 40 detected"
+04:37.0,"Client 2 data received: roll = 66.23, pitch = -5.44"
+04:37.0,"Client 2: condition met"
+04:37.0,Chin Up COUNTED
+04:37.0,Chin Up Count: 9
+04:39.0,"Client 2 data received: roll = 66.69, pitch = -6.70"
+04:39.0,"Client 2: condition met"
+04:39.1,"Client 1: angle 40 detected"
+04:40.0,"Client 2 data received: roll = 64.75, pitch = -5.56"
+04:40.0,"Client 2: condition met"
+04:40.0,Chin Up COUNTED
+04:40.0,Chin Up Count: 10
+04:41.0,"Client 2 data received: roll = 65.55, pitch = -6.19"
+04:41.0,"Client 2: condition met"
+04:42.0,"Client 1: angle 40 detected"
+04:42.0,"Client 2 data received: roll = 64.12, pitch = -4.68"
+04:42.0,"Client 2: condition met"
+04:42.1,Chin Up COUNTED
+04:42.1,Chin Up Count: 11
+04:43.0,"Client 2 data received: roll = 66.02, pitch = -5.85"
+04:43.0,"Client 2: condition met"
+04:44.0,"Client 2 data received: roll = 65.60, pitch = -5.94"
+04:44.0,"Client 2: condition met"
+04:44.8,"Client 1: angle 40 detected"
+04:45.0,"Client 2 data received: roll = 67.45, pitch = -6.00"
+04:45.1,"Client 2: condition met"
+04:45.1,Chin Up COUNTED
+04:45.1,Chin Up Count: 12
+04:46.1,"Client 2 data received: roll = 64.94, pitch = -5.64"
+04:46.1,"Client 2: condition met"
+04:47.1,"Client 2 data received: roll = 65.07, pitch = -5.88"
+04:47.1,"Client 2: condition met"
+04:47.5,"Client 1: angle 40 detected"
+04:48.1,"Client 2 data received: roll = 66.73, pitch = -5.54"
+04:48.1,"Client 2: condition met"
+04:48.1,Chin Up COUNTED
+04:48.1,Chin Up Count: 13
+04:49.1,"Client 2 data received: roll = 65.93, pitch = -5.76"
+04:49.1,"Client 2: condition met"
+04:49.7,"Client 1: angle 40 detected"
+04:50.2,"Client 2 data received: roll = 114.34, pitch = 6.21"
+04:50.2,"Client 2: condition not met"
+04:50.2,NOT COUNT: 1
+04:51.1,"Client 2 data received: roll = 112.50, pitch = 5.23"
+04:51.1,"Client 2: condition not met"
+04:52.1,"Client 2 data received: roll = 55.72, pitch = -0.71"
+04:52.1,"Client 2: condition not met"
+04:53.1,"Client 2 data received: roll = 61.98, pitch = -2.19"
+04:53.1,"Client 2: condition met"
+04:53.5,"Client 1: angle 40 detected"
+04:54.1,"Client 2 data received: roll = 65.40, pitch = 0.04"
+04:54.1,"Client 2: condition met"
+04:54.1,Chin Up COUNTED
+04:54.1,Chin Up Count: 14
+04:55.1,"Client 2 data received: roll = 66.91, pitch = 1.12"
+04:55.1,"Client 2: condition met"
+04:56.1,"Client 2 data received: roll = 67.59, pitch = 0.18"
+04:56.1,"Client 2: condition met"
+04:56.6,"Client 1: angle 40 detected"
+04:57.1,"Client 2 data received: roll = 67.85, pitch = 0.81"
+04:57.1,"Client 2: condition met"
+04:57.1,Chin Up COUNTED
+04:57.1,Chin Up Count: 15
+04:58.1,"Client 2 data received: roll = 67.41, pitch = 0.03"
+04:58.1,"Client 2: condition met"
+04:59.1,"Client 2 data received: roll = 66.98, pitch = 0.21"
+04:59.1,"Client 2: condition met"
+04:59.5,"Client 1: angle 40 detected"
+05:00.1,"Client 2 data received: roll = 66.40, pitch = 0.45"
+05:00.1,"Client 2: condition met"
+05:00.1,Chin Up COUNTED
+05:00.1,Chin Up Count: 16
+05:01.1,"Client 2 data received: roll = 67.13, pitch = 0.18"
+05:01.1,"Client 2: condition met"
+05:02.1,"Client 2 data received: roll = 67.15, pitch = 0.30"
+05:02.1,"Client 2: condition met"
+05:02.4,"Client 1: angle 40 detected"
+05:04.1,"Client 2 data received: roll = 66.51, pitch = 0.53"
+05:04.1,"Client 2: condition met"
+05:04.1,Chin Up COUNTED
+05:04.1,Chin Up Count: 17
+05:05.1,"Client 2 data received: roll = 66.82, pitch = 1.40"
+05:05.1,"Client 2: condition met"
+05:05.2,"Client 1: angle 40 detected"
+05:06.1,"Client 2 data received: roll = 66.14, pitch = 0.56"
+05:06.1,"Client 2: condition met"
+05:06.1,Chin Up COUNTED
+05:06.1,Chin Up Count: 18
+05:07.1,"Client 2 data received: roll = 67.07, pitch = 0.38"
+05:07.1,"Client 2: condition met"
+05:07.8,"Client 1: angle 40 detected"
+05:08.1,"Client 2 data received: roll = 64.53, pitch = 0.42"
+05:08.1,"Client 2: condition met"
+05:08.1,Chin Up COUNTED
+05:08.1,Chin Up Count: 19
+05:08.8,"Waktu 1 menit telah berlalu"
+05:08.8,TOTAL Chin-Up COUNTED: 19
+05:08.8,TOTAL NOT COUNTED: 1
+05:08.8,"Select Mode: 1 / 2"
+05:08.8,"1. Pull-Up"
+05:08.8,"2. Chin-Up"
+05:56.1,"Mode selected: Pull-Up"
+06:45.8,"Mode selected: Chin-Up"
+06:59.0,"Client disconnected"
+09:37.5,"Mode selected: Chin-Up"
+09:53.4,"Menerima data dari BLE clients..."
+10:20.6,"Client connected"
+10:21.4,"Client 2 data received: roll = -2.21, pitch = -12.25"
+10:21.4,"Client 2: condition not met"
+10:22.4,"Client 2 data received: roll = -2.33, pitch = -12.56"
+10:22.4,"Client 2: condition not met"
+10:23.5,"Client 2 data received: roll = -2.47, pitch = -12.76"
+10:23.5,"Client 2: condition not met"
+10:24.5,"Client 2 data received: roll = -1.98, pitch = -12.20"
+10:24.5,"Client 2: condition not met"
+10:25.4,"Client 2 data received: roll = -2.50, pitch = -12.27"
+10:25.4,"Client 2: condition not met"
+10:26.5,"Client 2 data received: roll = -2.22, pitch = -12.09"
+10:26.5,"Client 2: condition not met"
+10:27.5,"Client 2 data received: roll = -2.33, pitch = -12.24"
+10:27.5,"Client 2: condition not met"
+10:29.5,"Client 2 data received: roll = -2.17, pitch = -12.27"
+10:29.5,"Client 2: condition not met"
+10:30.5,"Client 2 data received: roll = -2.92, pitch = -11.99"
+10:30.5,"Client 2: condition not met"
+10:31.5,"Client 2 data received: roll = -2.06, pitch = -12.40"
+10:31.5,"Client 2: condition not met"
+10:32.5,"Client 2 data received: roll = -1.92, pitch = -12.74"
+10:32.5,"Client 2: condition not met"
+10:33.5,"Client 2 data received: roll = -2.07, pitch = -12.31"
+10:33.5,"Client 2: condition not met"
+10:35.5,"Client 2 data received: roll = -2.58, pitch = -11.85"
+10:35.5,"Client 2: condition not met"
+10:36.5,"Client 2 data received: roll = -2.47, pitch = -12.58"
+10:36.5,"Client 2: condition not met"
+10:37.5,"Client 2 data received: roll = -1.98, pitch = -12.38"
+10:37.5,"Client 2: condition not met"
+10:38.5,"Client 2 data received: roll = -2.47, pitch = -12.00"
+10:38.5,"Client 2: condition not met"
+10:39.5,"Client 2 data received: roll = -2.65, pitch = -12.07"
+10:39.5,"Client 2: condition not met"
+10:40.5,"Client 2 data received: roll = -2.06, pitch = -11.99"
+10:40.5,"Client 2: condition not met"
+10:41.5,"Client 2 data received: roll = -2.08, pitch = -12.17"
+10:41.5,"Client 2: condition not met"
+10:42.5,"Client 2 data received: roll = -2.52, pitch = -12.40"
+10:42.5,"Client 2: condition not met"
+10:43.5,"Client 2 data received: roll = -2.20, pitch = -12.25"
+10:43.5,"Client 2: condition not met"
+10:44.5,"Client 2 data received: roll = -2.52, pitch = -12.62"
+10:44.5,"Client 2: condition not met"
+10:45.5,"Client 2 data received: roll = -2.21, pitch = -12.17"
+10:45.5,"Client 2: condition not met"
+10:46.5,"Client 2 data received: roll = -2.11, pitch = -12.08"
+10:46.5,"Client 2: condition not met"
+10:47.5,"Client 2 data received: roll = -2.17, pitch = -12.46"
+10:47.5,"Client 2: condition not met"
+10:48.5,"Client 2 data received: roll = -2.13, pitch = -12.15"
+10:48.6,"Client 2: condition not met"
+10:49.5,"Client 2 data received: roll = -2.46, pitch = -12.46"
+10:49.5,"Client 2: condition not met"
+10:50.5,"Client 2 data received: roll = -2.28, pitch = -12.46"
+10:50.5,"Client 2: condition not met"
+10:51.5,"Client 2 data received: roll = -2.04, pitch = -12.46"
+10:51.5,"Client 2: condition not met"
+10:52.6,"Client 2 data received: roll = -2.80, pitch = -12.06"
+10:52.6,"Client 2: condition not met"
+10:53.5,"Client 2 data received: roll = -2.20, pitch = -12.25"
+10:53.5,"Client 2: condition not met"
+10:53.8,"Waktu 1 menit telah berlalu"
+10:53.8,TOTAL Chin-Up COUNTED: 0
+10:53.8,TOTAL NOT COUNTED: 0
+10:53.8,"Select Mode: 1 / 2"
+10:53.8,"1. Pull-Up"
+10:53.8,"2. Chin-Up"
+11:12.5,"Mode selected: Chin-Up"
+11:27.3,"Menerima data dari BLE clients..."
+11:27.7,"Client 2 data received: roll = 67.05, pitch = -0.72"
+11:27.7,"Client 2: condition met"
+11:28.6,"Client 2 data received: roll = 67.57, pitch = -1.03"
+11:28.6,"Client 2: condition met"
+11:29.7,"Client 2 data received: roll = 68.66, pitch = -2.83"
+11:29.7,"Client 2: condition met"
+11:30.6,"Client 2 data received: roll = 69.05, pitch = -3.81"
+11:30.6,"Client 2: condition met"
+11:30.9,"Client 1: angle 40 detected"
+11:31.6,"Client 2 data received: roll = 69.40, pitch = -3.35"
+11:31.6,"Client 2: condition met"
+11:31.6,Chin Up COUNTED
+11:31.6,Chin Up Count: 1
+11:32.7,"Client 2 data received: roll = 68.48, pitch = -3.49"
+11:32.7,"Client 2: condition met"
+11:33.4,"Client 1: angle 40 detected"
+11:33.7,"Client 2 data received: roll = 68.70, pitch = -2.78"
+11:33.7,"Client 2: condition met"
+11:33.7,Chin Up COUNTED
+11:33.7,Chin Up Count: 2
+11:34.7,"Client 2 data received: roll = 69.93, pitch = -3.51"
+11:34.7,"Client 2: condition met"
+11:35.7,"Client 2 data received: roll = 69.01, pitch = -3.37"
+11:35.7,"Client 2: condition met"
+11:36.0,"Client 1: angle 40 detected"
+11:36.7,"Client 2 data received: roll = 69.82, pitch = -4.30"
+11:36.7,"Client 2: condition met"
+11:36.7,Chin Up COUNTED
+11:36.7,Chin Up Count: 3
+11:37.7,"Client 2 data received: roll = 69.41, pitch = -3.10"
+11:37.7,"Client 2: condition met"
+11:38.7,"Client 2 data received: roll = 69.37, pitch = -3.06"
+11:38.7,"Client 2: condition met"
+11:38.8,"Client 1: angle 40 detected"
+11:39.7,"Client 2 data received: roll = 69.93, pitch = -4.00"
+11:39.7,"Client 2: condition met"
+11:39.7,Chin Up COUNTED
+11:39.7,Chin Up Count: 4
+11:40.7,"Client 2 data received: roll = 69.66, pitch = -3.71"
+11:40.7,"Client 2: condition met"
+11:41.7,"Client 2 data received: roll = 69.93, pitch = -2.17"
+11:41.7,"Client 2: condition met"
+11:41.7,"Client 1: angle 40 detected"
+11:42.7,"Client 2 data received: roll = 70.27, pitch = -2.99"
+11:42.7,"Client 2: condition met"
+11:42.7,Chin Up COUNTED
+11:42.7,Chin Up Count: 5
+11:43.7,"Client 2 data received: roll = 69.81, pitch = -3.84"
+11:43.7,"Client 2: condition met"
+11:44.7,"Client 2 data received: roll = 69.01, pitch = -3.40"
+11:44.7,"Client 2: condition met"
+11:45.3,"Client 1: angle 40 detected"
+11:45.7,"Client 2 data received: roll = 67.76, pitch = -3.04"
+11:45.7,"Client 2: condition met"
+11:45.7,Chin Up COUNTED
+11:45.7,Chin Up Count: 6
+11:46.7,"Client 2 data received: roll = 68.88, pitch = -4.12"
+11:46.7,"Client 2: condition met"
+11:47.7,"Client 2 data received: roll = 68.68, pitch = -4.41"
+11:47.7,"Client 2: condition met"
+11:47.8,"Client 1: angle 40 detected"
+11:48.7,"Client 2 data received: roll = 69.69, pitch = -4.05"
+11:48.7,"Client 2: condition met"
+11:48.7,Chin Up COUNTED
+11:48.7,Chin Up Count: 7
+11:49.7,"Client 2 data received: roll = 69.09, pitch = -2.91"
+11:49.7,"Client 2: condition met"
+11:50.7,"Client 2 data received: roll = 69.01, pitch = -2.76"
+11:50.7,"Client 2: condition met"
+11:50.8,"Client 1: angle 40 detected"
+11:51.7,"Client 2 data received: roll = 69.37, pitch = -3.49"
+11:51.7,"Client 2: condition met"
+11:51.7,Chin Up COUNTED
+11:51.7,Chin Up Count: 8
+11:52.7,"Client 2 data received: roll = 69.12, pitch = -2.90"
+11:52.7,"Client 2: condition met"
+11:53.7,"Client 2 data received: roll = 69.21, pitch = -3.35"
+11:53.7,"Client 2: condition met"
+11:54.2,"Client 1: angle 40 detected"
+11:54.7,"Client 2 data received: roll = 70.21, pitch = -2.71"
+11:54.7,"Client 2: condition met"
+11:54.7,Chin Up COUNTED
+11:54.7,Chin Up Count: 9
+11:55.7,"Client 2 data received: roll = 68.61, pitch = -3.05"
+11:55.7,"Client 2: condition met"
+11:56.7,"Client 2 data received: roll = 69.13, pitch = -3.30"
+11:56.7,"Client 2: condition met"
+11:57.0,"Client 1: angle 40 detected"
+11:57.7,"Client 2 data received: roll = 68.00, pitch = -2.73"
+11:57.7,"Client 2: condition met"
+11:57.7,Chin Up COUNTED
+11:57.7,Chin Up Count: 10
+11:58.8,"Client 2 data received: roll = 69.46, pitch = -3.71"
+11:58.8,"Client 2: condition met"
+11:59.7,"Client 2 data received: roll = 70.92, pitch = -3.95"
+11:59.7,"Client 2: condition met"
+11:59.8,"Client 1: angle 40 detected"
+12:00.7,"Client 2 data received: roll = 70.69, pitch = -3.20"
+12:00.7,"Client 2: condition met"
+12:00.8,Chin Up COUNTED
+12:00.8,Chin Up Count: 11
+12:01.7,"Client 2 data received: roll = 69.48, pitch = -3.73"
+12:01.7,"Client 2: condition met"
+12:02.6,"Client 1: angle 40 detected"
+12:02.7,"Client 2 data received: roll = 69.89, pitch = -3.26"
+12:02.7,"Client 2: condition met"
+12:02.7,Chin Up COUNTED
+12:02.7,Chin Up Count: 12
+12:03.8,"Client 2 data received: roll = 69.80, pitch = -3.70"
+12:03.8,"Client 2: condition met"
+12:05.4,"Client 1: angle 40 detected"
+12:05.8,"Client 2 data received: roll = 66.87, pitch = -3.45"
+12:05.8,"Client 2: condition met"
+12:05.8,Chin Up COUNTED
+12:05.8,Chin Up Count: 13
+12:06.8,"Client 2 data received: roll = 69.04, pitch = -2.74"
+12:06.8,"Client 2: condition met"
+12:07.6,"Client 1: angle 40 detected"
+12:07.8,"Client 2 data received: roll = 99.57, pitch = 5.57"
+12:07.8,"Client 2: condition not met"
+12:07.8,NOT COUNT: 1
+12:08.8,"Client 2 data received: roll = 96.60, pitch = 5.69"
+12:08.8,"Client 2: condition not met"
+12:09.8,"Client 2 data received: roll = 58.23, pitch = 5.34"
+12:09.8,"Client 2: condition not met"
+12:10.8,"Client 2 data received: roll = 62.26, pitch = -0.12"
+12:10.8,"Client 2: condition met"
+12:11.5,"Client 1: angle 40 detected"
+12:11.8,"Client 2 data received: roll = 65.02, pitch = 0.10"
+12:11.8,"Client 2: condition met"
+12:11.8,Chin Up COUNTED
+12:11.8,Chin Up Count: 14
+12:12.8,"Client 2 data received: roll = 64.52, pitch = -0.35"
+12:12.8,"Client 2: condition met"
+12:13.8,"Client 2 data received: roll = 64.43, pitch = -0.70"
+12:13.8,"Client 2: condition met"
+12:14.8,"Client 2 data received: roll = 63.00, pitch = -1.81"
+12:14.8,"Client 2: condition met"
+12:14.9,"Client 1: angle 40 detected"
+12:15.8,"Client 2 data received: roll = 64.96, pitch = -0.20"
+12:15.8,"Client 2: condition met"
+12:15.8,Chin Up COUNTED
+12:15.8,Chin Up Count: 15
+12:16.8,"Client 2 data received: roll = 64.19, pitch = -1.88"
+12:16.8,"Client 2: condition met"
+12:17.7,"Client 1: angle 40 detected"
+12:17.8,"Client 2 data received: roll = 62.56, pitch = -2.19"
+12:17.8,"Client 2: condition met"
+12:17.8,Chin Up COUNTED
+12:17.8,Chin Up Count: 16
+12:18.8,"Client 2 data received: roll = 63.96, pitch = -1.63"
+12:18.8,"Client 2: condition met"
+12:19.8,"Client 2 data received: roll = 63.90, pitch = -1.40"
+12:19.8,"Client 2: condition met"
+12:20.1,"Client 1: angle 40 detected"
+12:20.8,"Client 2 data received: roll = 64.16, pitch = -1.11"
+12:20.8,"Client 2: condition met"
+12:20.8,Chin Up COUNTED
+12:20.8,Chin Up Count: 17
+12:21.8,"Client 2 data received: roll = 64.85, pitch = -2.94"
+12:21.8,"Client 2: condition met"
+12:22.7,"Client 1: angle 40 detected"
+12:22.8,"Client 2 data received: roll = 63.79, pitch = -2.33"
+12:22.8,"Client 2: condition met"
+12:22.8,Chin Up COUNTED
+12:22.8,Chin Up Count: 18
+12:23.8,"Client 2 data received: roll = 65.05, pitch = -2.06"
+12:23.8,"Client 2: condition met"
+12:24.8,"Client 2 data received: roll = 64.85, pitch = -1.43"
+12:24.8,"Client 2: condition met"
+12:24.9,"Client 1: angle 40 detected"
+12:26.8,"Client 2 data received: roll = 64.46, pitch = -1.65"
+12:26.9,"Client 2: condition met"
+12:26.9,Chin Up COUNTED
+12:26.9,Chin Up Count: 19
+12:27.8,"Waktu 1 menit telah berlalu"
+12:27.8,TOTAL Chin-Up COUNTED: 19
+12:27.8,TOTAL NOT COUNTED: 1
+12:27.8,"Select Mode: 1 / 2"
+12:27.8,"1. Pull-Up"
+12:27.8,"2. Chin-Up"
+17:54.9,"Mode selected: Chin-Up"
+18:18.1,"Menerima data dari BLE clients..."
+18:18.9,"Client 2 data received: roll = 67.98, pitch = -7.23"
+18:18.9,"Client 2: condition met"
+18:19.9,"Client 2 data received: roll = 67.76, pitch = -9.25"
+18:19.9,"Client 2: condition met"
+18:20.5,"Client 1: angle 40 detected"
+18:20.9,"Client 2 data received: roll = 68.51, pitch = -10.06"
+18:20.9,"Client 2: condition met"
+18:20.9,Chin Up COUNTED
+18:20.9,Chin Up Count: 1
+18:21.9,"Client 2 data received: roll = 69.01, pitch = -9.09"
+18:21.9,"Client 2: condition met"
+18:22.3,"Client 1: angle 40 detected"
+18:22.9,"Client 2 data received: roll = 69.05, pitch = -9.57"
+18:22.9,"Client 2: condition met"
+18:22.9,Chin Up COUNTED
+18:22.9,Chin Up Count: 2
+18:23.9,"Client 2 data received: roll = 68.68, pitch = -9.80"
+18:23.9,"Client 2: condition met"
+18:24.2,"Client 1: angle 40 detected"
+18:24.9,"Client 2 data received: roll = 68.52, pitch = -10.70"
+18:24.9,"Client 2: condition met"
+18:24.9,Chin Up COUNTED
+18:24.9,Chin Up Count: 3
+18:25.8,"Client 1: angle 40 detected"
+18:25.9,"Client 2 data received: roll = 69.22, pitch = -10.08"
+18:25.9,"Client 2: condition met"
+18:25.9,Chin Up COUNTED
+18:25.9,Chin Up Count: 4
+18:26.9,"Client 2 data received: roll = 70.63, pitch = -9.98"
+18:26.9,"Client 2: condition met"
+18:27.7,"Client 1: angle 40 detected"
+18:27.9,"Client 2 data received: roll = 69.23, pitch = -10.43"
+18:27.9,"Client 2: condition met"
+18:27.9,Chin Up COUNTED
+18:27.9,Chin Up Count: 5
+18:28.9,"Client 2 data received: roll = 68.76, pitch = -9.91"
+18:28.9,"Client 2: condition met"
+18:29.9,"Client 2 data received: roll = 70.14, pitch = -10.06"
+18:29.9,"Client 2: condition met"
+18:29.9,"Client 1: angle 40 detected"
+18:30.9,"Client 2 data received: roll = 70.22, pitch = -10.70"
+18:30.9,"Client 2: condition met"
+18:30.9,Chin Up COUNTED
+18:30.9,Chin Up Count: 6
+18:31.6,"Client 1: angle 40 detected"
+18:31.9,"Client 2 data received: roll = 69.24, pitch = -10.78"
+18:31.9,"Client 2: condition met"
+18:31.9,Chin Up COUNTED
+18:31.9,Chin Up Count: 7
+18:32.9,"Client 2 data received: roll = 69.62, pitch = -9.47"
+18:32.9,"Client 2: condition met"
+18:33.2,"Client 1: angle 40 detected"
+18:33.9,"Client 2 data received: roll = 69.59, pitch = -9.94"
+18:33.9,"Client 2: condition met"
+18:33.9,Chin Up COUNTED
+18:33.9,Chin Up Count: 8
+18:34.6,"Client 1: angle 40 detected"
+18:34.9,"Client 2 data received: roll = 69.97, pitch = -9.13"
+18:34.9,"Client 2: condition met"
+18:34.9,Chin Up COUNTED
+18:34.9,Chin Up Count: 9
+18:36.0,"Client 1: angle 40 detected"
+18:37.0,"Client 2 data received: roll = 67.81, pitch = -9.64"
+18:37.0,"Client 2: condition met"
+18:37.0,Chin Up COUNTED
+18:37.0,Chin Up Count: 10
+18:37.9,"Client 2 data received: roll = 68.50, pitch = -9.57"
+18:37.9,"Client 2: condition met"
+18:38.2,"Client 1: angle 40 detected"
+18:39.0,"Client 2 data received: roll = 68.96, pitch = -10.35"
+18:39.0,"Client 2: condition met"
+18:39.0,Chin Up COUNTED
+18:39.0,Chin Up Count: 11
+18:40.0,"Client 2 data received: roll = 69.48, pitch = -10.53"
+18:40.0,"Client 2: condition met"
+18:40.3,"Client 1: angle 40 detected"
+18:41.0,"Client 2 data received: roll = 70.20, pitch = -10.57"
+18:41.0,"Client 2: condition met"
+18:41.0,Chin Up COUNTED
+18:41.0,Chin Up Count: 12
+18:41.8,"Client 1: angle 40 detected"
+18:42.0,"Client 2 data received: roll = 70.30, pitch = -9.77"
+18:42.0,"Client 2: condition met"
+18:42.0,Chin Up COUNTED
+18:42.0,Chin Up Count: 13
+18:43.0,"Client 2 data received: roll = 69.35, pitch = -9.37"
+18:43.0,"Client 2: condition met"
+18:43.9,"Client 1: angle 40 detected"
+18:44.0,"Client 2 data received: roll = 70.16, pitch = -9.97"
+18:44.0,"Client 2: condition met"
+18:44.0,Chin Up COUNTED
+18:44.0,Chin Up Count: 14
+18:45.0,"Client 2 data received: roll = 69.08, pitch = -9.86"
+18:45.0,"Client 2: condition met"
+18:45.7,"Client 1: angle 40 detected"
+18:46.0,"Client 2 data received: roll = 69.89, pitch = -9.37"
+18:46.0,"Client 2: condition met"
+18:46.0,Chin Up COUNTED
+18:46.0,Chin Up Count: 15
+18:47.0,"Client 2 data received: roll = 69.79, pitch = -10.43"
+18:47.0,"Client 2: condition met"
+18:47.3,"Client 1: angle 40 detected"
+18:48.0,"Client 2 data received: roll = 70.70, pitch = -9.17"
+18:48.0,"Client 2: condition met"
+18:48.0,Chin Up COUNTED
+18:48.0,Chin Up Count: 16
+18:49.0,"Client 2 data received: roll = 70.03, pitch = -8.93"
+18:49.0,"Client 2: condition met"
+18:49.1,"Client 1: angle 40 detected"
+18:50.0,"Client 2 data received: roll = 68.10, pitch = -8.70"
+18:50.0,"Client 2: condition met"
+18:50.0,Chin Up COUNTED
+18:50.0,Chin Up Count: 17
+18:51.0,"Client 1: angle 40 detected"
+18:51.0,"Client 2 data received: roll = 103.41, pitch = 0.38"
+18:51.0,"Client 2: condition not met"
+18:51.0,NOT COUNT: 1
+18:52.0,"Client 2 data received: roll = 99.71, pitch = -2.77"
+18:52.0,"Client 2: condition not met"
+18:53.0,"Client 2 data received: roll = 98.59, pitch = -2.52"
+18:53.0,"Client 2: condition not met"
+18:53.2,"Client 1: angle 40 detected"
+18:54.0,"Client 2 data received: roll = 97.71, pitch = -2.84"
+18:54.0,"Client 2: condition not met"
+18:54.0,NOT COUNT: 2
+18:55.0,"Client 2 data received: roll = 97.79, pitch = -2.63"
+18:55.0,"Client 2: condition not met"
+18:56.0,"Client 2 data received: roll = 47.59, pitch = -7.79"
+18:56.0,"Client 2: condition not met"
+18:56.7,"Client 1: angle 40 detected"
+18:57.0,"Client 2 data received: roll = 60.85, pitch = -7.12"
+18:57.0,"Client 2: condition met"
+18:57.0,Chin Up COUNTED
+18:57.0,Chin Up Count: 18
+18:58.0,"Client 2 data received: roll = 63.39, pitch = -6.17"
+18:58.0,"Client 2: condition met"
+18:58.3,"Client 1: angle 40 detected"
+18:59.0,"Client 2 data received: roll = 63.97, pitch = -7.27"
+18:59.0,"Client 2: condition met"
+18:59.0,Chin Up COUNTED
+18:59.0,Chin Up Count: 19
+19:00.0,"Client 1: angle 40 detected"
+19:00.0,"Client 2 data received: roll = 65.42, pitch = -6.91"
+19:00.0,"Client 2: condition met"
+19:00.0,Chin Up COUNTED
+19:00.0,Chin Up Count: 20
+19:01.0,"Client 2 data received: roll = 64.94, pitch = -7.48"
+19:01.0,"Client 2: condition met"
+19:02.0,"Client 2 data received: roll = 65.42, pitch = -7.36"
+19:02.0,"Client 2: condition met"
+19:02.7,"Client 1: angle 40 detected"
+19:03.0,"Client 2 data received: roll = 67.74, pitch = -7.45"
+19:03.0,"Client 2: condition met"
+19:03.0,Chin Up COUNTED
+19:03.0,Chin Up Count: 21
+19:04.0,"Client 2 data received: roll = 65.56, pitch = -7.11"
+19:04.0,"Client 2: condition met"
+19:04.5,"Client 1: angle 40 detected"
+19:05.0,"Client 2 data received: roll = 67.03, pitch = -6.98"
+19:05.1,"Client 2: condition met"
+19:05.1,Chin Up COUNTED
+19:05.1,Chin Up Count: 22
+19:06.0,"Client 2 data received: roll = 66.13, pitch = -6.68"
+19:06.0,"Client 2: condition met"
+19:06.9,"Client 1: angle 40 detected"
+19:07.0,"Client 2 data received: roll = 66.09, pitch = -5.80"
+19:07.0,"Client 2: condition met"
+19:07.0,Chin Up COUNTED
+19:07.0,Chin Up Count: 23
+19:08.0,"Client 2 data received: roll = 66.34, pitch = -6.99"
+19:08.0,"Client 2: condition met"
+19:08.0,"Client 1: angle 40 detected"
+19:09.1,"Client 2 data received: roll = 67.75, pitch = -6.10"
+19:09.1,"Client 2: condition met"
+19:09.1,Chin Up COUNTED
+19:09.1,Chin Up Count: 24
+19:09.7,"Client 1: angle 40 detected"
+19:10.1,"Client 2 data received: roll = 64.87, pitch = -7.60"
+19:10.1,"Client 2: condition met"
+19:10.1,Chin Up COUNTED
+19:10.1,Chin Up Count: 25
+19:11.0,"Client 2 data received: roll = 66.49, pitch = -6.95"
+19:11.1,"Client 2: condition met"
+19:11.6,"Client 1: angle 40 detected"
+19:12.1,"Client 2 data received: roll = 65.35, pitch = -7.14"
+19:12.1,"Client 2: condition met"
+19:12.1,Chin Up COUNTED
+19:12.1,Chin Up Count: 26
+19:13.1,"Client 2 data received: roll = 67.60, pitch = -7.25"
+19:13.1,"Client 2: condition met"
+19:13.3,"Client 1: angle 40 detected"
+19:14.1,"Client 2 data received: roll = 67.69, pitch = -7.22"
+19:14.1,"Client 2: condition met"
+19:14.1,Chin Up COUNTED
+19:14.1,Chin Up Count: 27
+19:15.1,"Client 2 data received: roll = 67.73, pitch = -6.75"
+19:15.1,"Client 2: condition met"
+19:15.4,"Client 1: angle 40 detected"
+19:16.1,"Client 2 data received: roll = 69.95, pitch = -7.34"
+19:16.1,"Client 2: condition met"
+19:16.1,Chin Up COUNTED
+19:16.1,Chin Up Count: 28
+19:17.1,"Client 2 data received: roll = 68.30, pitch = -7.71"
+19:17.1,"Client 2: condition met"
+19:17.9,"Client 1: angle 40 detected"
+19:18.1,"Client 2 data received: roll = 68.40, pitch = -6.38"
+19:18.1,"Client 2: condition met"
+19:18.1,Chin Up COUNTED
+19:18.1,Chin Up Count: 29
+19:18.8,"Waktu 1 menit telah berlalu"
+19:18.8,TOTAL Chin-Up COUNTED: 29
+19:18.8,TOTAL NOT COUNTED: 2
+19:18.8,"Select Mode: 1 / 2"
+19:18.8,"1. Pull-Up"
+19:18.8,"2. Chin-Up"
+27:26.6,"Mode selected: Pull-Up"
+27:44.8,"Menerima data dari BLE clients..."
+27:45.7,"Client 2 data received: roll = 97.31, pitch = -5.20"
+27:45.7,"Client 2: condition met"
+27:46.6,"Client 2 data received: roll = 97.60, pitch = -5.16"
+27:46.6,"Client 2: condition met"
+27:47.7,"Client 2 data received: roll = 99.69, pitch = -9.00"
+27:47.7,"Client 2: condition met"
+27:48.3,"Client 1: angle 50 detected"
+27:48.6,"Client 2 data received: roll = 99.41, pitch = -10.34"
+27:48.6,"Client 2: condition met"
+27:48.6,Pull Up COUNTED
+27:48.6,Pull Up Count: 1
+27:49.6,"Client 2 data received: roll = 99.26, pitch = -9.37"
+27:49.6,"Client 2: condition met"
+27:50.6,"Client 2 data received: roll = 99.88, pitch = -8.99"
+27:50.7,"Client 2: condition met"
+27:51.6,"Client 2 data received: roll = 99.38, pitch = -9.13"
+27:51.6,"Client 2: condition met"
+27:52.7,"Client 2 data received: roll = 100.87, pitch = -8.92"
+27:52.7,"Client 2: condition met"
+27:53.7,"Client 2 data received: roll = 100.46, pitch = -9.11"
+27:53.7,"Client 2: condition met"
+27:54.2,"Client 1: angle 50 detected"
+27:54.7,"Client 2 data received: roll = 99.59, pitch = -8.52"
+27:54.7,"Client 2: condition met"
+27:54.7,Pull Up COUNTED
+27:54.7,Pull Up Count: 2
+27:55.7,"Client 2 data received: roll = 100.62, pitch = -8.50"
+27:55.7,"Client 2: condition met"
+27:56.7,"Client 2 data received: roll = 100.90, pitch = -8.52"
+27:56.7,"Client 2: condition met"
+27:57.7,"Client 2 data received: roll = 101.13, pitch = -8.74"
+27:57.7,"Client 2: condition met"
+27:58.7,"Client 2 data received: roll = 101.61, pitch = -8.82"
+27:58.7,"Client 2: condition met"
+27:59.6,"Client 1: angle 50 detected"
+27:59.7,"Client 2 data received: roll = 101.09, pitch = -8.37"
+27:59.7,"Client 2: condition met"
+27:59.7,Pull Up COUNTED
+27:59.7,Pull Up Count: 3
+28:00.7,"Client 2 data received: roll = 102.20, pitch = -8.58"
+28:00.7,"Client 2: condition met"
+28:02.7,"Client 2 data received: roll = 101.38, pitch = -8.42"
+28:02.7,"Client 2: condition met"
+28:03.7,"Client 2 data received: roll = 100.45, pitch = -8.15"
+28:03.7,"Client 2: condition met"
+28:04.7,"Client 2 data received: roll = 101.33, pitch = -8.81"
+28:04.7,"Client 2: condition met"
+28:05.4,"Client 1: angle 50 detected"
+28:05.7,"Client 2 data received: roll = 101.66, pitch = -9.32"
+28:05.7,"Client 2: condition met"
+28:05.7,Pull Up COUNTED
+28:05.7,Pull Up Count: 4
+28:06.7,"Client 2 data received: roll = 102.25, pitch = -7.96"
+28:06.7,"Client 2: condition met"
+28:07.7,"Client 2 data received: roll = 101.91, pitch = -8.29"
+28:07.7,"Client 2: condition met"
+28:08.7,"Client 2 data received: roll = 102.22, pitch = -8.09"
+28:08.7,"Client 2: condition met"
+28:09.7,"Client 2 data received: roll = 101.72, pitch = -8.44"
+28:09.7,"Client 2: condition met"
+28:10.7,"Client 2 data received: roll = 101.56, pitch = -8.14"
+28:10.7,"Client 2: condition met"
+28:11.4,"Client 1: angle 50 detected"
+28:11.7,"Client 2 data received: roll = 102.49, pitch = -8.39"
+28:11.7,"Client 2: condition met"
+28:11.7,Pull Up COUNTED
+28:11.7,Pull Up Count: 5
+28:12.7,"Client 2 data received: roll = 102.49, pitch = -8.00"
+28:12.7,"Client 2: condition met"
+28:13.7,"Client 2 data received: roll = 101.93, pitch = -8.21"
+28:13.7,"Client 2: condition met"
+28:14.7,"Client 2 data received: roll = 102.44, pitch = -8.13"
+28:14.7,"Client 2: condition met"
+28:16.7,"Client 2 data received: roll = 101.62, pitch = -8.26"
+28:16.7,"Client 2: condition met"
+28:17.0,"Client 1: angle 50 detected"
+28:17.7,"Client 2 data received: roll = 101.89, pitch = -8.30"
+28:17.7,"Client 2: condition met"
+28:17.7,Pull Up COUNTED
+28:17.7,Pull Up Count: 6
+28:18.7,"Client 2 data received: roll = 103.27, pitch = -8.35"
+28:18.7,"Client 2: condition met"
+28:19.7,"Client 2 data received: roll = 102.49, pitch = -8.29"
+28:19.7,"Client 2: condition met"
+28:20.7,"Client 2 data received: roll = 102.90, pitch = -8.45"
+28:20.7,"Client 2: condition met"
+28:21.7,"Client 2 data received: roll = 102.96, pitch = -8.10"
+28:21.7,"Client 2: condition met"
+28:22.7,"Client 2 data received: roll = 102.47, pitch = -7.97"
+28:22.7,"Client 2: condition met"
+28:23.0,"Client 1: angle 50 detected"
+28:23.7,"Client 2 data received: roll = 102.31, pitch = -8.53"
+28:23.7,"Client 2: condition met"
+28:23.7,Pull Up COUNTED
+28:23.7,Pull Up Count: 7
+28:24.7,"Client 2 data received: roll = 103.09, pitch = -7.77"
+28:24.7,"Client 2: condition met"
+28:25.8,"Client 2 data received: roll = 102.51, pitch = -8.26"
+28:25.8,"Client 2: condition met"
+28:26.7,"Client 2 data received: roll = 102.43, pitch = -8.16"
+28:26.7,"Client 2: condition met"
+28:27.7,"Client 2 data received: roll = 102.16, pitch = -7.70"
+28:27.7,"Client 2: condition met"
+28:28.3,"Client 1: angle 50 detected"
+28:28.7,"Client 2 data received: roll = 101.19, pitch = -7.46"
+28:28.7,"Client 2: condition met"
+28:28.7,Pull Up COUNTED
+28:28.8,Pull Up Count: 8
+28:29.7,"Client 2 data received: roll = 102.47, pitch = -7.39"
+28:29.7,"Client 2: condition met"
+28:30.8,"Client 2 data received: roll = 102.75, pitch = -7.09"
+28:30.8,"Client 2: condition met"
+28:31.8,"Client 2 data received: roll = 102.09, pitch = -7.62"
+28:31.8,"Client 2: condition met"
+28:32.8,"Client 2 data received: roll = 102.56, pitch = -7.48"
+28:32.8,"Client 2: condition met"
+28:33.6,"Client 1: angle 50 detected"
+28:33.8,"Client 2 data received: roll = 102.22, pitch = -8.16"
+28:33.8,"Client 2: condition met"
+28:33.8,Pull Up COUNTED
+28:33.8,Pull Up Count: 9
+28:34.8,"Client 2 data received: roll = 93.19, pitch = -10.84"
+28:34.8,"Client 2: condition not met"
+28:37.0,"Client 2 data received: roll = 64.60, pitch = -6.52"
+28:37.0,"Client 2: condition not met"
+28:37.8,"Client 1: angle 50 detected"
+28:37.9,"Client 2 data received: roll = 65.37, pitch = -7.58"
+28:37.9,"Client 2: condition not met"
+28:37.9,NOT COUNT: 1
+28:38.1,"Client 2 data received: roll = 64.81, pitch = -6.99"
+28:38.1,"Client 2: condition not met"
+28:40.9,"Client 2 data received: roll = 66.91, pitch = -7.15"
+28:40.9,"Client 2: condition not met"
+28:41.7,"Client 2 data received: roll = 65.35, pitch = -6.80"
+28:41.7,"Client 2: condition not met"
+28:41.7,"Client 2 data received: roll = 65.98, pitch = -7.16"
+28:41.7,"Client 2: condition not met"
+28:41.8,"Client 2 data received: roll = 44.58, pitch = -7.37"
+28:41.8,"Client 2: condition not met"
+28:42.8,"Client 2 data received: roll = 0.28, pitch = -5.88"
+28:42.8,"Client 2: condition not met"
+28:43.8,"Client 1: angle 50 detected"
+28:43.8,"Client 2 data received: roll = 3.09, pitch = -5.53"
+28:43.8,"Client 2: condition not met"
+28:43.8,NOT COUNT: 2
+28:44.9,"Client 2 data received: roll = 4.97, pitch = -4.29"
+28:44.9,"Client 2: condition not met"
+28:45.8,"Waktu 1 menit telah berlalu"
+28:45.8,TOTAL Pull-Up COUNTED: 9
+28:45.8,TOTAL NOT COUNTED: 2
+28:45.8,"Select Mode: 1 / 2"
+28:45.8,"1. Pull-Up"
+28:45.8,"2. Chin-Up"
+35:28.0,"Mode selected: Pull-Up"
+35:41.6,"Menerima data dari BLE clients..."
+35:42.1,"Client 2 data received: roll = 96.99, pitch = -4.16"
+35:42.1,"Client 2: condition met"
+35:43.2,"Client 2 data received: roll = 95.76, pitch = -6.77"
+35:43.2,"Client 2: condition met"
+35:44.6,"Client 1: angle 50 detected"
+35:45.1,"Client 2 data received: roll = 94.67, pitch = -8.84"
+35:45.1,"Client 2: condition not met"
+35:45.1,NOT COUNT: 1
+35:46.1,"Client 2 data received: roll = 95.99, pitch = -8.65"
+35:46.1,"Client 2: condition met"
+35:47.1,"Client 2 data received: roll = 94.90, pitch = -8.84"
+35:47.1,"Client 2: condition not met"
+35:48.1,"Client 2 data received: roll = 93.70, pitch = 4.95"
+35:48.1,"Client 2: condition not met"
+35:49.1,"Client 2 data received: roll = 95.76, pitch = 2.91"
+35:49.1,"Client 2: condition met"
+35:49.3,"Client 1: angle 50 detected"
+35:50.1,"Client 2 data received: roll = 94.35, pitch = 2.77"
+35:50.1,"Client 2: condition not met"
+35:50.1,NOT COUNT: 2
+35:51.1,"Client 2 data received: roll = 93.14, pitch = 2.16"
+35:51.1,"Client 2: condition not met"
+35:52.1,"Client 2 data received: roll = 93.23, pitch = 2.41"
+35:52.1,"Client 2: condition not met"
+35:53.1,"Client 2 data received: roll = 83.25, pitch = 1.30"
+35:53.1,"Client 2: condition not met"
+35:54.0,"Client 1: angle 50 detected"
+35:54.1,"Client 2 data received: roll = 98.84, pitch = -0.82"
+35:54.1,"Client 2: condition met"
+35:54.1,Pull Up COUNTED
+35:54.1,Pull Up Count: 1
+35:55.1,"Client 2 data received: roll = 98.78, pitch = -0.28"
+35:55.1,"Client 2: condition met"
+35:56.1,"Client 2 data received: roll = 98.03, pitch = -0.87"
+35:56.1,"Client 2: condition met"
+35:57.1,"Client 2 data received: roll = 97.12, pitch = -1.16"
+35:57.1,"Client 2: condition met"
+35:57.7,"Client 1: angle 50 detected"
+35:58.1,"Client 2 data received: roll = 97.36, pitch = -1.14"
+35:58.1,"Client 2: condition met"
+35:58.1,Pull Up COUNTED
+35:58.1,Pull Up Count: 2
+35:59.1,"Client 2 data received: roll = 98.43, pitch = -1.12"
+35:59.1,"Client 2: condition met"
+36:00.1,"Client 2 data received: roll = 97.39, pitch = -1.46"
+36:00.3,"Client 2: condition met"
+36:01.1,"Client 2 data received: roll = 97.21, pitch = -1.85"
+36:01.1,"Client 2: condition met"
+36:02.1,"Client 2 data received: roll = 97.56, pitch = -2.15"
+36:02.1,"Client 2: condition met"
+36:02.8,"Client 1: angle 50 detected"
+36:03.1,"Client 2 data received: roll = 99.80, pitch = -1.54"
+36:03.1,"Client 2: condition met"
+36:03.1,Pull Up COUNTED
+36:03.1,Pull Up Count: 3
+36:03.6,"Client 1: angle 50 detected"
+36:04.1,"Client 2 data received: roll = 99.94, pitch = -2.87"
+36:04.1,"Client 2: condition met"
+36:04.1,Pull Up COUNTED
+36:04.1,Pull Up Count: 4
+36:05.1,"Client 2 data received: roll = 100.48, pitch = -2.93"
+36:05.1,"Client 2: condition met"
+36:06.1,"Client 2 data received: roll = 100.19, pitch = 0.21"
+36:06.1,"Client 2: condition met"
+36:07.1,"Client 2 data received: roll = 98.40, pitch = -5.90"
+36:07.1,"Client 2: condition met"
+36:08.1,"Client 2 data received: roll = 100.63, pitch = -2.64"
+36:08.1,"Client 2: condition met"
+36:09.1,"Client 2 data received: roll = 100.76, pitch = -0.90"
+36:09.2,"Client 2: condition met"
+36:10.1,"Client 2 data received: roll = 94.67, pitch = 0.56"
+36:10.1,"Client 2: condition not met"
+36:11.1,"Client 2 data received: roll = 97.87, pitch = 1.50"
+36:11.1,"Client 2: condition met"
+36:12.1,"Client 2 data received: roll = 100.98, pitch = -0.25"
+36:12.2,"Client 2: condition met"
+36:13.2,"Client 2 data received: roll = 100.20, pitch = -0.52"
+36:13.4,"Client 2: condition met"
+36:14.8,"Client 2 data received: roll = 100.53, pitch = -0.48"
+36:14.8,"Client 2: condition met"
+36:15.2,"Client 2 data received: roll = 100.08, pitch = -0.86"
+36:15.2,"Client 2: condition met"
+36:16.2,"Client 2 data received: roll = 100.15, pitch = -0.68"
+36:16.2,"Client 2: condition met"
+36:17.2,"Client 2 data received: roll = 100.00, pitch = -0.20"
+36:17.4,"Client 2: condition met"
+36:18.2,"Client 2 data received: roll = 100.22, pitch = -0.60"
+36:18.2,"Client 2: condition met"
+36:19.2,"Client 2 data received: roll = 100.13, pitch = -0.80"
+36:19.3,"Client 2: condition met"
+36:20.2,"Client 2 data received: roll = 101.31, pitch = -0.88"
+36:20.3,"Client 2: condition met"
+36:21.2,"Client 2 data received: roll = 100.23, pitch = -0.49"
+36:21.5,"Client 2: condition met"
+36:22.2,"Client 2 data received: roll = 101.08, pitch = -0.29"
+36:22.2,"Client 2: condition met"
+36:23.2,"Client 2 data received: roll = 101.90, pitch = -1.31"
+36:23.2,"Client 2: condition met"
+36:24.2,"Client 2 data received: roll = 101.83, pitch = -0.35"
+36:24.2,"Client 2: condition met"
+36:25.2,"Client 2 data received: roll = 99.89, pitch = -0.86"
+36:25.2,"Client 2: condition met"
+36:26.2,"Client 2 data received: roll = 102.11, pitch = -0.86"
+36:26.2,"Client 2: condition met"
+36:27.2,"Client 2 data received: roll = 101.61, pitch = -0.23"
+36:27.2,"Client 2: condition met"
+36:28.2,"Client 2 data received: roll = 100.74, pitch = 0.03"
+36:28.2,"Client 2: condition met"
+36:29.2,"Client 2 data received: roll = 102.32, pitch = -0.07"
+36:29.2,"Client 2: condition met"
+36:30.2,"Client 2 data received: roll = 102.36, pitch = -0.20"
+36:30.2,"Client 2: condition met"
+36:31.2,"Client 2 data received: roll = 101.37, pitch = 0.14"
+36:31.2,"Client 2: condition met"
+36:32.2,"Client 2 data received: roll = 101.84, pitch = -0.55"
+36:32.2,"Client 2: condition met"
+36:33.2,"Client 2 data received: roll = 101.34, pitch = -0.03"
+36:33.2,"Client 2: condition met"
+36:34.2,"Client 2 data received: roll = 101.41, pitch = -0.40"
+36:34.2,"Client 2: condition met"
+36:35.2,"Client 2 data received: roll = 101.56, pitch = 0.01"
+36:35.2,"Client 2: condition met"
+36:37.2,"Client 2 data received: roll = 101.84, pitch = 0.28"
+36:37.2,"Client 2: condition met"
+36:38.2,"Client 2 data received: roll = 101.91, pitch = -0.36"
+36:38.2,"Client 2: condition met"
+36:39.2,"Client 2 data received: roll = 102.13, pitch = 0.26"
+36:39.2,"Client 2: condition met"
+36:40.2,"Client 2 data received: roll = 102.33, pitch = 0.10"
+36:40.2,"Client 2: condition met"
+36:41.3,"Client 2 data received: roll = 101.85, pitch = -0.91"
+36:41.3,"Client 2: condition met"
+36:41.8,"Waktu 1 menit telah berlalu"
+36:41.8,TOTAL Pull-Up COUNTED: 4
+36:41.8,TOTAL NOT COUNTED: 2
+36:41.8,"Select Mode: 1 / 2"
+36:41.8,"1. Pull-Up"
+36:41.8,"2. Chin-Up"
+36:51.8,"Mode selected: Pull-Up"
+36:59.8,"Menerima data dari BLE clients..."
+37:00.3,"Client 2 data received: roll = 99.35, pitch = -0.86"
+37:00.3,"Client 2: condition met"
+37:01.3,"Client 2 data received: roll = 99.71, pitch = -1.30"
+37:01.3,"Client 2: condition met"
+37:02.3,"Client 2 data received: roll = 101.32, pitch = -1.72"
+37:02.3,"Client 2: condition met"
+37:03.3,"Client 2 data received: roll = 100.61, pitch = -2.90"
+37:03.3,"Client 2: condition met"
+37:04.1,"Client 1: angle 50 detected"
+37:04.3,"Client 2 data received: roll = 100.63, pitch = -1.87"
+37:04.3,"Client 2: condition met"
+37:04.3,Pull Up COUNTED
+37:04.3,Pull Up Count: 1
+37:05.3,"Client 2 data received: roll = 100.84, pitch = -2.41"
+37:05.3,"Client 2: condition met"
+37:06.3,"Client 2 data received: roll = 100.94, pitch = -2.66"
+37:06.3,"Client 2: condition met"
+37:07.3,"Client 2 data received: roll = 101.81, pitch = -1.95"
+37:07.3,"Client 2: condition met"
+37:08.4,"Client 2 data received: roll = 101.49, pitch = -2.42"
+37:08.4,"Client 2: condition met"
+37:09.3,"Client 2 data received: roll = 100.19, pitch = -2.67"
+37:09.4,"Client 2: condition met"
+37:10.3,"Client 2 data received: roll = 101.70, pitch = -3.07"
+37:10.8,"Client 2: condition met"
+37:11.3,"Client 2 data received: roll = 101.16, pitch = -2.14"
+37:11.7,"Client 2: condition met"
+37:12.1,"Client 1: angle 50 detected"
+37:12.3,"Client 2 data received: roll = 101.19, pitch = -3.04"
+37:12.4,"Client 2: condition met"
+37:12.4,Pull Up COUNTED
+37:12.4,Pull Up Count: 2
+37:13.3,"Client 2 data received: roll = 100.58, pitch = -2.99"
+37:13.3,"Client 2: condition met"
+37:14.4,"Client 2 data received: roll = 100.88, pitch = -2.55"
+37:14.4,"Client 2: condition met"
+37:15.4,"Client 2 data received: roll = 101.05, pitch = -2.37"
+37:15.4,"Client 2: condition met"
+37:16.4,"Client 2 data received: roll = 101.41, pitch = -2.91"
+37:16.4,"Client 2: condition met"
+37:17.4,"Client 2 data received: roll = 100.85, pitch = -2.43"
+37:17.4,"Client 2: condition met"
+37:18.4,"Client 2 data received: roll = 100.66, pitch = -2.57"
+37:18.4,"Client 2: condition met"
+37:19.4,"Client 2 data received: roll = 101.01, pitch = -2.42"
+37:19.4,"Client 2: condition met"
+37:20.4,"Client 2 data received: roll = 101.42, pitch = -2.91"
+37:20.4,"Client 2: condition met"
+37:21.1,"Client 1: angle 50 detected"
+37:21.4,"Client 2 data received: roll = 101.31, pitch = -3.91"
+37:21.4,"Client 2: condition met"
+37:21.4,Pull Up COUNTED
+37:21.4,Pull Up Count: 3
+37:22.4,"Client 2 data received: roll = 101.44, pitch = -2.88"
+37:22.4,"Client 2: condition met"
+37:23.4,"Client 2 data received: roll = 101.21, pitch = -3.07"
+37:23.4,"Client 2: condition met"
+37:24.4,"Client 2 data received: roll = 101.16, pitch = -2.74"
+37:24.4,"Client 2: condition met"
+37:25.4,"Client 2 data received: roll = 100.34, pitch = -3.16"
+37:25.4,"Client 2: condition met"
+37:26.4,"Client 2 data received: roll = 101.18, pitch = -2.65"
+37:26.4,"Client 2: condition met"
+37:27.4,"Client 2 data received: roll = 100.70, pitch = -2.84"
+37:27.4,"Client 2: condition met"
+37:28.4,"Client 2 data received: roll = 101.31, pitch = -2.87"
+37:28.4,"Client 2: condition met"
+37:29.4,"Client 2 data received: roll = 101.00, pitch = -2.85"
+37:29.4,"Client 2: condition met"
+37:29.9,"Client 1: angle 50 detected"
+37:30.4,"Client 2 data received: roll = 102.62, pitch = -4.76"
+37:30.4,"Client 2: condition met"
+37:30.4,Pull Up COUNTED
+37:30.4,Pull Up Count: 4
+37:31.4,"Client 2 data received: roll = 100.36, pitch = -2.92"
+37:31.4,"Client 2: condition met"
+37:32.4,"Client 2 data received: roll = 100.89, pitch = -3.09"
+37:32.4,"Client 2: condition met"
+37:33.4,"Client 2 data received: roll = 100.79, pitch = -3.16"
+37:33.4,"Client 2: condition met"
+37:34.4,"Client 2 data received: roll = 100.31, pitch = -2.61"
+37:34.4,"Client 2: condition met"
+37:35.4,"Client 2 data received: roll = 101.21, pitch = -3.06"
+37:35.4,"Client 2: condition met"
+37:36.4,"Client 2 data received: roll = 100.68, pitch = -2.69"
+37:36.4,"Client 2: condition met"
+37:37.4,"Client 2 data received: roll = 100.89, pitch = -3.27"
+37:37.4,"Client 2: condition met"
+37:38.4,"Client 2 data received: roll = 100.49, pitch = -3.01"
+37:38.4,"Client 2: condition met"
+37:39.4,"Client 2 data received: roll = 100.42, pitch = -3.27"
+37:39.4,"Client 2: condition met"
+37:39.4,"Client 1: angle 50 detected"
+37:40.4,"Client 2 data received: roll = 100.50, pitch = -1.91"
+37:40.4,"Client 2: condition met"
+37:40.4,Pull Up COUNTED
+37:40.4,Pull Up Count: 5
+37:41.4,"Client 2 data received: roll = 100.51, pitch = -2.94"
+37:41.4,"Client 2: condition met"
+37:42.5,"Client 2 data received: roll = 100.73, pitch = -3.25"
+37:42.5,"Client 2: condition met"
+37:43.4,"Client 2 data received: roll = 101.10, pitch = -3.58"
+37:43.4,"Client 2: condition met"
+37:44.5,"Client 2 data received: roll = 100.34, pitch = -3.54"
+37:44.5,"Client 2: condition met"
+37:45.5,"Client 2 data received: roll = 100.03, pitch = -3.16"
+37:45.5,"Client 2: condition met"
+37:46.4,"Client 2 data received: roll = 100.48, pitch = -3.21"
+37:46.4,"Client 2: condition met"
+37:47.5,"Client 2 data received: roll = 101.07, pitch = -3.76"
+37:47.5,"Client 2: condition met"
+37:48.5,"Client 2 data received: roll = 99.91, pitch = -3.36"
+37:48.5,"Client 2: condition met"
+37:49.4,"Client 2 data received: roll = 100.59, pitch = -2.98"
+37:49.4,"Client 2: condition met"
+37:49.7,"Client 1: angle 50 detected"
+37:50.5,"Client 2 data received: roll = 101.39, pitch = -3.48"
+37:50.5,"Client 2: condition met"
+37:50.5,Pull Up COUNTED
+37:50.5,Pull Up Count: 6
+37:51.5,"Client 2 data received: roll = 100.66, pitch = -3.53"
+37:51.5,"Client 2: condition met"
+37:52.5,"Client 2 data received: roll = 100.73, pitch = -3.35"
+37:52.5,"Client 2: condition met"
+37:53.5,"Client 2 data received: roll = 100.54, pitch = -3.24"
+37:53.5,"Client 2: condition met"
+37:54.5,"Client 2 data received: roll = 99.75, pitch = -3.66"
+37:54.5,"Client 2: condition met"
+37:55.5,"Client 2 data received: roll = 101.03, pitch = -3.58"
+37:55.5,"Client 2: condition met"
+37:56.5,"Client 2 data received: roll = 99.97, pitch = -3.24"
+37:56.5,"Client 2: condition met"
+37:57.5,"Client 2 data received: roll = 100.13, pitch = -3.24"
+37:57.5,"Client 2: condition met"
+37:58.4,"Client 1: angle 50 detected"
+37:58.5,"Client 2 data received: roll = 100.64, pitch = -2.74"
+37:58.5,"Client 2: condition met"
+37:58.5,Pull Up COUNTED
+37:58.5,Pull Up Count: 7
+37:59.5,"Client 2 data received: roll = 99.92, pitch = -3.26"
+37:59.5,"Client 2: condition met"
+38:00.5,"Client 2 data received: roll = 100.27, pitch = -3.22"
+38:00.5,"Client 2: condition met"
+38:00.8,"Waktu 1 menit telah berlalu"
+38:00.8,TOTAL Pull-Up COUNTED: 7
+38:00.8,TOTAL NOT COUNTED: 0
+38:00.8,"Select Mode: 1 / 2"
+38:00.8,"1. Pull-Up"
+38:00.8,"2. Chin-Up"
+39:52.3,"Client disconnected"
+42:48.7,"Client connected"
+43:00.9,"Mode selected: Pull-Up"
+44:27.6,"Menerima data dari BLE clients..."
+44:28.2,"Client 2 data received: roll = 98.02, pitch = -0.16"
+44:28.3,"Client 2: condition met"
+44:29.3,"Client 2 data received: roll = 97.01, pitch = -1.13"
+44:29.3,"Client 2: condition met"
+44:30.2,"Client 2 data received: roll = 99.28, pitch = -2.59"
+44:30.2,"Client 2: condition met"
+44:31.2,"Client 2 data received: roll = 93.97, pitch = -1.89"
+44:31.2,"Client 2: condition not met"
+44:31.5,"Client 1: angle 50 detected"
+44:32.3,"Client 2 data received: roll = 92.56, pitch = -0.93"
+44:32.3,"Client 2: condition not met"
+44:32.3,NOT COUNT: 1
+44:33.3,"Client 2 data received: roll = 95.15, pitch = -2.27"
+44:33.3,"Client 2: condition met"
+44:34.3,"Client 2 data received: roll = 90.60, pitch = -1.89"
+44:34.3,"Client 2: condition not met"
+44:35.0,"Client 1: angle 50 detected"
+44:35.3,"Client 2 data received: roll = 99.43, pitch = -1.24"
+44:35.3,"Client 2: condition met"
+44:35.3,Pull Up COUNTED
+44:35.3,Pull Up Count: 1
+44:36.3,"Client 2 data received: roll = 98.73, pitch = -0.52"
+44:36.3,"Client 2: condition met"
+44:37.3,"Client 2 data received: roll = 98.20, pitch = -0.59"
+44:37.3,"Client 2: condition met"
+44:37.5,"Client 1: angle 50 detected"
+44:38.3,"Client 2 data received: roll = 98.34, pitch = -1.31"
+44:38.3,"Client 2: condition met"
+44:38.3,Pull Up COUNTED
+44:38.3,Pull Up Count: 2
+44:39.2,"Client 1: angle 50 detected"
+44:39.3,"Client 2 data received: roll = 99.80, pitch = -0.21"
+44:39.3,"Client 2: condition met"
+44:39.4,Pull Up COUNTED
+44:39.4,Pull Up Count: 3
+44:40.3,"Client 2 data received: roll = 98.63, pitch = -1.04"
+44:40.3,"Client 2: condition met"
+44:40.7,"Client 1: angle 50 detected"
+44:41.3,"Client 2 data received: roll = 100.07, pitch = -1.27"
+44:41.3,"Client 2: condition met"
+44:41.3,Pull Up COUNTED
+44:41.3,Pull Up Count: 4
+44:42.3,"Client 2 data received: roll = 98.87, pitch = -1.18"
+44:42.3,"Client 2: condition met"
+44:42.4,"Client 1: angle 50 detected"
+44:43.3,"Client 2 data received: roll = 99.07, pitch = -1.03"
+44:43.3,"Client 2: condition met"
+44:43.3,Pull Up COUNTED
+44:43.3,Pull Up Count: 5
+44:44.3,"Client 2 data received: roll = 99.79, pitch = -1.27"
+44:44.3,"Client 2: condition met"
+44:44.3,"Client 1: angle 50 detected"
+44:45.3,"Client 2 data received: roll = 99.61, pitch = -0.75"
+44:45.3,"Client 2: condition met"
+44:45.3,Pull Up COUNTED
+44:45.3,Pull Up Count: 6
+44:46.1,"Client 1: angle 50 detected"
+44:46.3,"Client 2 data received: roll = 100.17, pitch = -1.97"
+44:46.3,"Client 2: condition met"
+44:46.3,Pull Up COUNTED
+44:46.3,Pull Up Count: 7
+44:47.3,"Client 2 data received: roll = 100.21, pitch = -1.30"
+44:47.3,"Client 2: condition met"
+44:48.3,"Client 2 data received: roll = 100.06, pitch = -1.01"
+44:48.3,"Client 2: condition met"
+44:49.3,"Client 2 data received: roll = 100.73, pitch = -1.21"
+44:49.4,"Client 2: condition met"
+44:50.3,"Client 2 data received: roll = 100.78, pitch = -1.73"
+44:50.3,"Client 2: condition met"
+44:51.2,"Client 1: angle 50 detected"
+44:51.3,"Client 2 data received: roll = 102.12, pitch = -0.21"
+44:51.3,"Client 2: condition met"
+44:51.3,Pull Up COUNTED
+44:51.3,Pull Up Count: 8
+44:52.3,"Client 2 data received: roll = 101.34, pitch = -1.58"
+44:52.3,"Client 2: condition met"
+44:53.3,"Client 2 data received: roll = 96.47, pitch = 0.39"
+44:53.3,"Client 2: condition met"
+44:54.3,"Client 2 data received: roll = 77.88, pitch = -7.53"
+44:54.3,"Client 2: condition not met"
+44:55.2,"Client 1: angle 50 detected"
+44:55.3,"Client 2 data received: roll = 72.12, pitch = -6.45"
+44:55.3,"Client 2: condition not met"
+44:55.3,NOT COUNT: 2
+44:56.4,"Client 2 data received: roll = 75.31, pitch = -7.53"
+44:56.4,"Client 2: condition not met"
+44:57.3,"Client 2 data received: roll = 92.50, pitch = -1.51"
+44:57.3,"Client 2: condition not met"
+44:58.4,"Client 2 data received: roll = 92.32, pitch = -1.63"
+44:58.4,"Client 2: condition not met"
+44:59.3,"Client 2 data received: roll = 95.27, pitch = -1.84"
+44:59.3,"Client 2: condition met"
+44:59.6,"Client 1: angle 50 detected"
+45:00.3,"Client 2 data received: roll = 94.41, pitch = -0.55"
+45:00.3,"Client 2: condition not met"
+45:00.3,NOT COUNT: 3
+45:01.3,"Client 2 data received: roll = 94.95, pitch = -1.21"
+45:01.3,"Client 2: condition not met"
+45:02.3,"Client 2 data received: roll = 93.81, pitch = 0.27"
+45:02.3,"Client 2: condition not met"
+45:02.8,"Client 1: angle 50 detected"
+45:03.3,"Client 2 data received: roll = 97.37, pitch = -0.93"
+45:03.3,"Client 2: condition met"
+45:03.4,Pull Up COUNTED
+45:03.4,Pull Up Count: 9
+45:04.4,"Client 2 data received: roll = 98.41, pitch = -1.94"
+45:04.4,"Client 2: condition met"
+45:05.4,"Client 2 data received: roll = 97.40, pitch = -2.42"
+45:05.4,"Client 2: condition met"
+45:05.9,"Client 1: angle 50 detected"
+45:06.4,"Client 2 data received: roll = 98.29, pitch = -1.70"
+45:06.4,"Client 2: condition met"
+45:06.4,Pull Up COUNTED
+45:06.4,Pull Up Count: 10
+45:07.4,"Client 2 data received: roll = 98.37, pitch = -2.66"
+45:07.4,"Client 2: condition met"
+45:08.4,"Client 2 data received: roll = 98.26, pitch = -2.31"
+45:08.4,"Client 2: condition met"
+45:09.4,"Client 2 data received: roll = 99.34, pitch = -2.63"
+45:09.4,"Client 2: condition met"
+45:10.4,"Client 2 data received: roll = 98.63, pitch = -2.18"
+45:10.4,"Client 2: condition met"
+45:11.4,"Client 1: angle 50 detected"
+45:12.4,"Client 2 data received: roll = 98.02, pitch = -1.65"
+45:12.4,"Client 2: condition met"
+45:12.4,Pull Up COUNTED
+45:12.4,Pull Up Count: 11
+45:13.4,"Client 2 data received: roll = 98.56, pitch = -2.30"
+45:13.4,"Client 2: condition met"
+45:14.4,"Client 2 data received: roll = 99.00, pitch = -2.37"
+45:14.4,"Client 2: condition met"
+45:15.4,"Client 2 data received: roll = 99.84, pitch = -2.54"
+45:15.4,"Client 2: condition met"
+45:16.4,"Client 2 data received: roll = 98.38, pitch = -1.31"
+45:16.4,"Client 2: condition met"
+45:17.4,"Client 2 data received: roll = 97.97, pitch = -1.91"
+45:17.4,"Client 2: condition met"
+45:18.4,"Client 2 data received: roll = 98.38, pitch = -1.92"
+45:18.4,"Client 2: condition met"
+45:19.4,"Client 2 data received: roll = 99.02, pitch = -1.65"
+45:19.4,"Client 2: condition met"
+45:19.9,"Client 1: angle 50 detected"
+45:20.4,"Client 2 data received: roll = 99.38, pitch = -1.33"
+45:20.4,"Client 2: condition met"
+45:20.4,Pull Up COUNTED
+45:20.4,Pull Up Count: 12
+45:21.4,"Client 2 data received: roll = 100.36, pitch = -2.53"
+45:21.4,"Client 2: condition met"
+45:22.4,"Client 2 data received: roll = 99.66, pitch = -2.07"
+45:22.4,"Client 2: condition met"
+45:23.4,"Client 2 data received: roll = 99.95, pitch = -2.29"
+45:23.4,"Client 2: condition met"
+45:24.4,"Client 2 data received: roll = 99.29, pitch = -1.61"
+45:24.4,"Client 2: condition met"
+45:25.4,"Client 2 data received: roll = 99.33, pitch = -2.30"
+45:25.4,"Client 2: condition met"
+45:26.4,"Client 2 data received: roll = 98.63, pitch = -2.08"
+45:26.4,"Client 2: condition met"
+45:27.5,"Client 2 data received: roll = 98.71, pitch = -1.94"
+45:27.5,"Client 2: condition met"
+45:27.8,"Waktu 1 menit telah berlalu"
+45:27.8,TOTAL Pull-Up COUNTED: 12
+45:27.8,TOTAL NOT COUNTED: 3
+45:27.8,"Select Mode: 1 / 2"
+45:27.8,"1. Pull-Up"
+45:27.8,"2. Chin-Up"
+46:17.6,"Client disconnected"
